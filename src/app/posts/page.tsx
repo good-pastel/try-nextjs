@@ -8,7 +8,7 @@ export default async function Page() {
   return (
     <>
       <div className="main-heading">
-        <h2>Daftar Tulisan</h2>
+        <h2>All Posts</h2>
         <p className="subtitle">
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
           dolorem voluptas aliquam odio veritatis amet veniam laudantium
