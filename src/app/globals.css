@@ -217,7 +217,7 @@ body.dark-mode .footer {
   .header {
     padding: 10px 40px 20px;
   }
-  main h1 {
+  .post-item h2 {
     font-size: 0.5em;
   }
 }
